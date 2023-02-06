@@ -5,9 +5,7 @@
   ],
 
   "defaultData": [
-    { "name": "Basket", "quantity": 3, "owner": "john@foo.com", "condition": "excellent" },
-    { "name": "Bicycle", "quantity": 2, "owner": "john@foo.com", "condition": "poor" },
-    { "name": "Banana", "quantity": 2, "owner": "admin@foo.com", "condition": "good" },
-    { "name": "Boogie Board", "quantity": 2, "owner": "admin@foo.com", "condition": "excellent" }
+    { "website": "Gmail", "username": "john@foo.com",  "password": "123456", "owner": "john@foo.com"},
+    { "website": "Youtube", "username": "john@hotmail.com", "password": "654321", "owner": "john@foo.com"}
   ]
 }
