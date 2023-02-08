@@ -16,7 +16,7 @@ const PasswordItem = ({ password }) => (
 
 // Require a document to be passed to this component.
 PasswordItem.propTypes = {
-  stuff: PropTypes.shape({
+  password: PropTypes.shape({
     website: PropTypes.string,
     username: PropTypes.number,
     password: PropTypes.string,
