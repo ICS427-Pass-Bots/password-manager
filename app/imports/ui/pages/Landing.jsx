@@ -11,6 +11,9 @@ const Landing = () => (
 
       <Col className="d-flex flex-column justify-content-center">
         <h1>Passbots</h1>
+        <center>
+          <Image roundedCircle src="/images/passbot-logo.jpg" width="150px" />
+        </center>
         <p>Where we store your passwords</p>
       </Col>
 
