@@ -25,8 +25,8 @@
 Benny Trieu:
 
 - ~~Create Homepage~~
-- ~~Work on report~~
 - Delete Password page
+- Work on report
 
 Cole Amparo: 
 
@@ -34,7 +34,7 @@ Cole Amparo:
 - ~~Create Password collection~~
 - ~~Create Password List Page~~
 - ~~Create Add Password Page~~
-- ~~Work on report~~
+- Work on report
 
 
 Cole House: 
@@ -45,8 +45,8 @@ Cole House:
 
 John Suelen: 
 
-- Work on report, 
 - Work on function to hide passwords
+- Work on report
 
 
 
