@@ -32,6 +32,7 @@ const ListPassword = () => {
                 <th>Website</th>
                 <th>Username</th>
                 <th>Password</th>
+                <th />
                 <th>Edit</th>
               </tr>
             </thead>
