@@ -21,17 +21,17 @@
 
 Benny Trieu:
 
-- ~~Create Homepage 
-- ~~Work on report
+- ~~Create Homepage~~
+- ~~Work on report~~
 - Delete Password page
 
 Cole Amparo: 
 
-- ~~Create Github Repository with template 
-- ~~Create Password collection 
-- ~~Create Password List Page
-- ~~Create Add Password Page 
-- ~~Work on report
+- ~~Create Github Repository with template~~
+- ~~Create Password collection~~
+- ~~Create Password List Page~~
+- ~~Create Add Password Page~~
+- ~~Work on report~~
 
 
 Cole House: 
