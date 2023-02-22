@@ -18,7 +18,7 @@ const PasswordItem = ({ password }) => (
 PasswordItem.propTypes = {
   password: PropTypes.shape({
     website: PropTypes.string,
-    username: PropTypes.number,
+    username: PropTypes.string,
     password: PropTypes.string,
     _id: PropTypes.string,
   }).isRequired,
