@@ -7,6 +7,9 @@
 
 - A github repository with a meteor react template that we are going to turn into a working password manager 
 - Homepage UI - Benny Trieu
+- Password Collection - Cole Amparo
+- Password List - Cole Amparo
+- Add Password - Cole Amparo
 
 
 ## What is pending
@@ -36,13 +39,14 @@ Cole Amparo:
 
 Cole House: 
 
-- Work on website, etc 
+- Work on website, design, etc 
 - Work on report
 
 
 John Suelen: 
 
-- Work on report, website, etc.
+- Work on report, 
+- Work on function to hide passwords
 
 
 
