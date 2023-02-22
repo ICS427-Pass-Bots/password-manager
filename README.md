@@ -6,11 +6,12 @@
 ## What is complete so far 
 
 - A github repository with a meteor react template that we are going to turn into a working password manager 
+- Homepage UI
 
 
 ## What is pending
 
-- Homepage UI 
+- Delete Password Page
 - Password collection 
 - Password page UI 
 - Multifactor Authentication 
@@ -20,8 +21,9 @@
 
 Benny Trieu:
 
-- Create Homepage 
-- Work on report
+- ~~Create Homepage 
+- ~~Work on report
+- Delete Password page
 
 Cole Amparo: 
 
