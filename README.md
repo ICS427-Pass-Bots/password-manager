@@ -6,7 +6,7 @@
 ## What is complete so far 
 
 - A github repository with a meteor react template that we are going to turn into a working password manager 
-- Homepage UI
+- Homepage UI - Benny Trieu
 
 
 ## What is pending
