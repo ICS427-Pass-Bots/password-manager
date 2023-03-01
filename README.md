@@ -39,6 +39,8 @@ Current:
 
 Next: 
 
+---
+
 
 ### Cole Amparo: 
 
@@ -54,6 +56,9 @@ Current:
 Next: 
 
 
+---
+
+
 ### Cole House: 
 
 New Completions: 
@@ -64,6 +69,9 @@ Current:
 - Work on report
 
 Next: 
+
+
+---
 
 
 ### John Suelen: 
