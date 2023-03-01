@@ -38,7 +38,7 @@ Current:
 - Work on report
 
 Next: 
--
+
 
 ### Cole Amparo: 
 
@@ -52,32 +52,31 @@ Current:
 - Work on report
 
 Next: 
--
 
 
 ### Cole House: 
 
 New Completions: 
--
+
 
 Current:
 - Work on website, design, etc 
 - Work on report
 
 Next: 
--
+
 
 ### John Suelen: 
 
 New Completions: 
--
+
 
 Current: 
 - Work on function to hide passwords
 - Work on report
 
 Next: 
--
+
 
 
 
