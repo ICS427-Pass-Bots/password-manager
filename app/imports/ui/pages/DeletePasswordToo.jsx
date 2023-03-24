@@ -27,10 +27,11 @@ const DeletePasswordToo = () => {
     };
   }, [_id]);
   // console.log('EditStuff', doc, ready);
-  // On successful submit, insert the data.
+
+  // On successful submit, delete the data.
   const submit = (data) => {
-    const { website, username, password } = data;
-    Passwords.collection.remove(_id, { $set: { website, username, password } }, (error) => (error ?
+    const { _id } = data;
+    Passwords.collection.remove(_id, (error) => (error ?
       swal('Error', error.message, 'error') :
       swal('Success', 'Password successfully deleted', 'success')));
   };
