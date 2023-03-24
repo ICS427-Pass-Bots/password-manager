@@ -11,6 +11,9 @@ const PasswordItem = ({ password }) => (
     <td>
       <Link to={`/edit/${password._id}`}>Edit</Link>
     </td>
+    <td>
+      <Link to={`/deletetoo/${password._id}`}>Delete</Link>
+    </td>
   </tr>
 );
 

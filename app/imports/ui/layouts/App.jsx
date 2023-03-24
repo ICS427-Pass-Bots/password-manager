@@ -9,6 +9,8 @@ import ListStuffAdmin from '../pages/ListStuffAdmin';
 import ListPassword from '../pages/ListPassword';
 import AddPassword from '../pages/AddPassword';
 import EditPassword from '../pages/EditPassword';
+import DeletePassword from '../pages/DeletePassword';
+import DeletePasswordToo from '../pages/DeletePasswordToo';
 import NotFound from '../pages/NotFound';
 import SignUp from '../pages/SignUp';
 import SignOut from '../pages/SignOut';
@@ -29,6 +31,8 @@ const App = () => (
         <Route path="/home" element={<ProtectedRoute><Landing /></ProtectedRoute>} />
         <Route path="/list" element={<ProtectedRoute><ListPassword /></ProtectedRoute>} />
         <Route path="/add" element={<ProtectedRoute><AddPassword /></ProtectedRoute>} />
+        <Route path="/delete/:_id" element={<ProtectedRoute><DeletePassword /></ProtectedRoute>} />
+        <Route path="/deletetoo/:_id" element={<ProtectedRoute><DeletePasswordToo /></ProtectedRoute>} />
         <Route path="/edit/:_id" element={<ProtectedRoute><EditPassword /></ProtectedRoute>} />
         <Route path="/admin" element={<AdminProtectedRoute><ListStuffAdmin /></AdminProtectedRoute>} />
         <Route path="/notauthorized" element={<NotAuthorized />} />
