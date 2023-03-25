@@ -30,6 +30,7 @@ const DeletePasswordToo = () => {
 
   // On successful submit, delete the data.
   const submit = (data) => {
+    // eslint-disable-next-line no-shadow
     const { _id } = data;
     Passwords.collection.remove(_id, (error) => (error ?
       swal('Error', error.message, 'error') :
