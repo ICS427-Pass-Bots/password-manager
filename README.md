@@ -3,16 +3,25 @@
 
 # PassBots 
 
+
+## Progress since Feb 21st 2023
+- Updated Password UI 
+- Hide Password Function
+
+
+
 ## What is complete so far 
 
 - A github repository with a meteor react template that we are going to turn into a working password manager 
-- Homepage UI - Benny Trieu
+- Homepage UI & Delete Password Page - Benny Trieu
+- Password Collection - Cole Amparo
+- Password List - Cole Amparo
+- Add Password - Cole Amparo
 
 
 ## What is pending
 
-- Delete Password Page
-- Password collection 
+- Test cases 
 - Password page UI 
 - Multifactor Authentication 
 - Other Security 
@@ -21,28 +30,62 @@
 
 Benny Trieu:
 
+New Completions:
 - ~~Create Homepage~~
-- ~~Work on report~~
-- Delete Password page
+- ~~Delete Password~~
 
-Cole Amparo: 
+Current:
+- Test cases
+- Work on report
 
+Next: 
+
+- Test cases
+
+
+### Cole Amparo: 
+
+New Completions:
 - ~~Create Github Repository with template~~
 - ~~Create Password collection~~
 - ~~Create Password List Page~~
 - ~~Create Add Password Page~~
-- ~~Work on report~~
 
-
-Cole House: 
-
-- Work on website, etc 
+Current: 
 - Work on report
 
+Next: 
 
-John Suelen: 
 
-- Work on report, website, etc.
+---
+
+
+### Cole House: 
+
+New Completions: 
+
+
+Current:
+- Work on website, design, etc 
+- Work on report
+
+Next: 
+
+
+---
+
+
+### John Suelen: 
+
+New Completions: 
+
+
+Current: 
+- Work on function to hide passwords
+- Work on report
+
+Next: 
+
 
 
 
