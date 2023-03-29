@@ -1,10 +1,10 @@
 import React from 'react';
 import { Meteor } from 'meteor/meteor';
-import { Col, Container, Row, Table } from 'react-bootstrap';
+import { Col, Container, Row, CardGroup } from 'react-bootstrap';
 import { useTracker } from 'meteor/react-meteor-data';
 import { Passwords } from '../../api/password/Password';
-import PasswordItem from '../components/PasswordItem';
 import LoadingSpinner from '../components/LoadingSpinner';
+import PasswordCard from '../components/PasswordCard';
 
 /* Renders a table containing all of the Password documents. Use <StuffItem> to render each row. */
 const ListPassword = () => {
@@ -24,21 +24,13 @@ const ListPassword = () => {
       <Row className="justify-content-center">
         <Col md={7}>
           <Col className="text-center">
-            <h2>List Passwords</h2>
+            <h2> Passwords</h2>
           </Col>
-          <Table striped bordered hover>
-            <thead>
-              <tr>
-                <th>Website</th>
-                <th>Username</th>
-                <th>Password</th>
-                <th>Edit</th>
-              </tr>
-            </thead>
-            <tbody>
-              {passwords.map((password) => <PasswordItem key={password._id} password={password} />)}
-            </tbody>
-          </Table>
+          <Col>
+            <CardGroup style={{ padding: 20 }}>
+              {passwords.map((password) => <PasswordCard key={password._id} password={password} />)}
+            </CardGroup>
+          </Col>
         </Col>
       </Row>
     </Container>

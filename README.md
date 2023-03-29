@@ -34,8 +34,9 @@ Cole Amparo:
 
 Cole House: 
 
-- Work on website, etc 
-- Work on report
+- Update the UI for the user's password list
+- Reflect on experience with ESLint
+- Work on portion's of the report
 
 
 John Suelen: 
