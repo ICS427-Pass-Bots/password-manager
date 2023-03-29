@@ -1,19 +1,22 @@
-import React from 'react';
+import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import { Button, Card } from 'react-bootstrap';
 
 /** Renders a single row in the List Stuff table. See pages/ListStuff.jsx. */
 
-const PasswordCard = ({ password }) => (
-  <Card style={{ width: '18rem', margin: 20, borderColor: 'green' }}>
-    <Card.Body>
-      <Card.Title>{password.website}</Card.Title>
-      <Card.Subtitle className="mb-2 text-muted">Username: {password.username}</Card.Subtitle>
-      <Card.Link to={`/edit/${password._id}`}>Edit</Card.Link>
-      <Button style={{ margin: 20 }}> View Password</Button>
-    </Card.Body>
-  </Card>
-);
+const PasswordCard = ({ password }) => {
+  const [show, setShow] = useState(true);
+  return (
+    <Card style={{ width: '18rem', margin: 20, borderColor: 'green' }}>
+      <Card.Body>
+        <Card.Title>{password.website}</Card.Title>
+        <Card.Subtitle className="mb-2 text-muted">Username: {password.username}</Card.Subtitle>
+        <Card.Link to={`/edit/${password._id}`}>Edit</Card.Link>
+        <Button style={{ margin: 20 }} onClick={() => setShow(!show)}>{show ? 'View Password' : password.password}</Button>
+      </Card.Body>
+    </Card>
+  );
+};
 
 // Require a document to be passed to this component.
 PasswordCard.propTypes = {

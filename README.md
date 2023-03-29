@@ -80,10 +80,11 @@ Next:
 ### John Suelen: 
 
 New Completions: 
-
+- ~~Work on function to hide passwords~~
+- ~~Improved function by displaying asterisks instead of shifting table values~~
+- ~~Implemented function into card components on List Passwords page~~
 
 Current: 
-- Work on function to hide passwords
 - Work on report
 
 Next: 
