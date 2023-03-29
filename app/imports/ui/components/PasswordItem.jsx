@@ -18,7 +18,7 @@ const PasswordItem = ({ password }) => {
     <tr>
       <td>{password.website}</td>
       <td>{password.username}</td>
-      {show ? <td>{password.password}</td> : null}
+      {show ? <td>{password.password}</td> : '*****'}
       <td>
         <button type="button" onClick={() => setShow(!show)}>
           Toggle Password
