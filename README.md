@@ -17,12 +17,14 @@
 - Password Collection - Cole Amparo
 - Password List - Cole Amparo
 - Add Password - Cole Amparo
+- Revamped Password List UI pulling from the Password Collection - Cole House 
 
 
 ## What is pending
 
 - Test cases 
-- Password page UI 
+- Adding Password Visibility Toggle
+- Editing Passwords
 - Multifactor Authentication 
 - Other Security 
 
@@ -63,14 +65,14 @@ Next:
 ### Cole House: 
 
 New Completions: 
-
+- Updated Password List UI
 
 Current:
 - Work on website, design, etc 
 - Work on report
 
 Next: 
-
+- Work on edit password capability
 
 ---
 
