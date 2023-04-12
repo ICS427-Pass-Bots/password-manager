@@ -22,8 +22,8 @@
 
 ## What is pending
 
-- Test cases 
-- Adding Password Visibility Toggle
+- Test cases
+- SQL Injection Vulnerability
 - Editing Passwords
 - Multifactor Authentication 
 - Other Security 
@@ -57,7 +57,7 @@ Current:
 - Work on report
 
 Next: 
-
+- test-cafe
 
 ---
 
@@ -66,6 +66,7 @@ Next:
 
 New Completions: 
 - Updated Password List UI
+- Worked on Random Input Fuzz Testing
 
 Current:
 - Work on website, design, etc 
@@ -73,6 +74,7 @@ Current:
 
 Next: 
 - Work on edit password capability
+- Address SQL Injection Vulnerability
 
 ---
 
@@ -88,7 +90,7 @@ Current:
 - Work on report
 
 Next: 
-
+- Devise new ways to hack our website
 
 
 
