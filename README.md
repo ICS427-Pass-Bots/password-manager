@@ -4,7 +4,7 @@
 # PassBots 
 
 
-## Progress since March 29th 2023
+## Progress since April 11th 2023
 - Differents Fuzz test cases
 
 
@@ -19,12 +19,12 @@
 - Revamped Password List UI pulling from the Password Collection - Cole House 
 - Updated Password UI - Cole House
 - Hide Password Function - John Suelen
+- Added Password Visibility Toggle - John Suelen
 
 
 ## What is pending
 
 - Test cases 
-- Adding Password Visibility Toggle
 - Editing Passwords
 - Multifactor Authentication 
 - Other Security 
@@ -36,11 +36,11 @@ Benny Trieu:
 New Completions:
 - ~~Create Homepage~~
 - ~~Delete Password~~
+- ~~Grammar fuzzing test~~
 
 Current:
 - Test cases
 - Work on report
-- Grammar fuzzing test
 
 Next: 
 
@@ -54,9 +54,9 @@ New Completions:
 - ~~Create Password collection~~
 - ~~Create Password List Page~~
 - ~~Create Add Password Page~~
+- ~~Random input Fuzz testing~~
 
 Current: 
-- Random input Fuzz testing
 - Work on report
 
 Next: 
@@ -69,6 +69,7 @@ Next:
 
 New Completions: 
 - Updated Password List UI
+- Random input Fuzz testing
 
 Current:
 - Work on website, design, etc 
@@ -76,7 +77,6 @@ Current:
 
 Next: 
 - Work on edit password capability
-- Protocol Fuzzing Test
 
 ---
 
@@ -88,13 +88,13 @@ New Completions:
 - ~~Improved function by displaying asterisks instead of shifting table values~~
 - ~~Implemented function into card components on List Passwords page~~
 - ~~Hide password function~~
+- ~~Mutation Fuzz Testing~~
 
 Current: 
 - Work on report
-- Mutation Fuzz Testing
 
 Next: 
-
+- Test cases
 
 
 
