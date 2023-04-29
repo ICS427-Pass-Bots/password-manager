@@ -113,8 +113,8 @@ Developer notes looking back at all your work: the challenges, surprises, import
 
   * John: 
   * Benny: Some challenges of working on this program included setup and working on the delete password function. An achievement im proud of is being able to get the delete button to work. 
-  * Cole H.:
-  * Cole A.:
+  * Cole H:
+  * Cole A: It was a nice achievement to create a website that does work for the purpose of storing password and account information, when it comes to disappointments, I am a little disappointed we couldn't get all of the security features we wanted up and running.
 
 - [Repository](https://github.com/ICS427-Pass-Bots/password-manager)
 - [Final Project Documentation](https://github.com/ICS427-Pass-Bots/password-manager/blob/main/index.md)
