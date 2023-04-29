@@ -98,10 +98,10 @@ Next:
 
 - Who is handling what in this last part of the project
 
-Benny - README.txt
-John - Release Version of the website
-Cole A. - Making Wiki Pages
-Cole H. - ????
+-- Benny - README.txt
+-- John - Release Version of the website
+-- Cole A. - Making Wiki Pages
+-- Cole H. - ????
 
 - How to run program
 
@@ -114,10 +114,10 @@ To run the applicaton
 - Brief closing thoughts on the outcome of your program including:
 Developer notes looking back at all your work: the challenges, surprises, important achievements you are proud of(if there are any you want to highlight), disappointments(if any),  disclaimers/caveats etc
 
-John: 
-Benny: Some challenges of working on this program included setup and working on the delete password function. An achievement im proud of is being able to get the delete button to work. 
-Cole H.:
-Cole A.:
+-- John: 
+-- Benny: Some challenges of working on this program included setup and working on the delete password function. An achievement im proud of is being able to get the delete button to work. 
+-- Cole H.:
+-- Cole A.:
 
 - Link to [Repository](https://github.com/ICS427-Pass-Bots/password-manager)
 - link to the final [project documentation](https://github.com/ICS427-Pass-Bots/password-manager/blob/main/index.md)
