@@ -97,9 +97,9 @@ Next:
 ### Part IV
 
 - Who is handling what in this last part of the project
-  * Benny - README.txt
-  * John - Release Version of the website
-  * Cole A. - Making Wiki Pages
+  * Benny - README.txt and Final Security Review (Report)
+  * John - Release Version of the website and Certified Release & Archived Report (Report)
+  * Cole A. - Making Wiki Pages and finalizing website
   * Cole H. - Incident Response Plan (Report)
 
 - How to run program
@@ -119,7 +119,7 @@ Developer notes looking back at all your work: the challenges, surprises, import
 - [Repository](https://github.com/ICS427-Pass-Bots/password-manager)
 - [Final Project Documentation](https://github.com/ICS427-Pass-Bots/password-manager/blob/main/index.md)
 - [Release](https://github.com/ICS427-Pass-Bots/password-manager/releases/tag/v1.0.0)
-- link to your wiki page (Insert Wiki page)
+- Wiki page (Insert Wiki page)
 
 
 
