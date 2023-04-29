@@ -122,7 +122,7 @@ Cole A.:
 - Link to [Repository](https://github.com/ICS427-Pass-Bots/password-manager)
 
 - link to the final project documentation file within the repository
-- link to the release version of your program (Insert release version)
+- link to the [release](https://github.com/ICS427-Pass-Bots/password-manager/releases/tag/v1.0.0)
 - link to your wiki page (Insert Wiki page)
 
 
