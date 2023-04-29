@@ -97,16 +97,16 @@ Next:
 ### Part IV
 
 - Who is handling what in this last part of the project
- * Benny - README.txt
- * John - Release Version of the website
- * Cole A. - Making Wiki Pages
- * Cole H. - Incident Response Plan (Report)
+  * Benny - README.txt
+  * John - Release Version of the website
+  * Cole A. - Making Wiki Pages
+  * Cole H. - Incident Response Plan (Report)
 
 - How to run program
- * install [meteor](https://www.meteor.com/developers/install). 
- * clone the repo either by zipping it, cloning with github desktop, or with your preferred method. 
- * cd into the password-manager/app directory and install libraries with "meteor npm install"
- * Run the system with "meteor npm run start "
+  * install [meteor](https://www.meteor.com/developers/install). 
+  * clone the repo either by zipping it, cloning with github desktop, or with your preferred method. 
+  * cd into the password-manager/app directory and install libraries with "meteor npm install"
+  * Run the system with "meteor npm run start "
 
 - Brief closing thoughts on the outcome of your program including:
 Developer notes looking back at all your work: the challenges, surprises, important achievements you are proud of(if there are any you want to highlight), disappointments(if any),  disclaimers/caveats etc
