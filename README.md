@@ -92,7 +92,22 @@ Current:
 Next: 
 - Devise new ways to hack our website
 
+### Part IV
 
+- Who is handling what in this last part of the project
+
+Benny - README.txt
+John - Release Version of the website
+Cole A. - Making Wiki Pages
+Cole H. - ????
+
+- Technical notes on the program e.g. specifications for use, how to install it
+- Brief closing thoughts on the outcome of your program including:
+Developer notes looking back at all your work: the challenges, surprises, important achievements you are proud of(if there are any you want to highlight), disappointments(if any),  disclaimers/caveats etc
+- link to your online repository.
+- link to the final project documentation file within the repository
+- link to the release version of your program
+- link to your wiki page
 
 
 
