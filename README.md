@@ -92,6 +92,8 @@ Current:
 Next: 
 - Devise new ways to hack our website
 
+---
+
 ### Part IV
 
 - Who is handling what in this last part of the project
@@ -102,12 +104,26 @@ Cole A. - Making Wiki Pages
 Cole H. - ????
 
 - Technical notes on the program e.g. specifications for use, how to install it
+
+To run the applicaton
+- install [meteor](https://www.meteor.com/developers/install). 
+- clone the repo either by zipping it, cloning with github desktop, or with your preferred method. 
+- cd into the password-manager/app directory and install libraries with "meteor npm install"
+- Run the system with "meteor npm run start "
+
 - Brief closing thoughts on the outcome of your program including:
 Developer notes looking back at all your work: the challenges, surprises, important achievements you are proud of(if there are any you want to highlight), disappointments(if any),  disclaimers/caveats etc
-- link to your online repository.
+
+John:
+Benny: Some challenges of working on this program included setup and working on the delete password function. An achievement im proud of is being able to get the delete button to work. 
+Cole H.:
+Cole A.:
+
+- Link to [Repository](https://github.com/ICS427-Pass-Bots/password-manager)
+
 - link to the final project documentation file within the repository
-- link to the release version of your program
-- link to your wiki page
+- link to the release version of your program (Insert release version)
+- link to your wiki page (Insert Wiki page)
 
 
 
