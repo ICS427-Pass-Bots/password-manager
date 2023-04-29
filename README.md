@@ -101,7 +101,7 @@ Next:
   * Benny - README.txt
   * John - Release Version of the website
   * Cole A. - Making Wiki Pages
-  * Cole H. - ????
+  * Cole H. - Incident Response Plan (Report)
 
 - How to run program
 
