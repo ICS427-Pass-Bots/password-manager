@@ -111,9 +111,9 @@ Next:
 - Brief closing thoughts on the outcome of your program including:
 Developer notes looking back at all your work: the challenges, surprises, important achievements you are proud of(if there are any you want to highlight), disappointments(if any),  disclaimers/caveats etc
 
-  * John: 
+  * John: A challenge I faced working on this program was brushing up on JavaScript, Meteor, and React. I am proud of the current state of the website and the progress that we made, but I wish we had implemented features we talked about like two-factor authorization and password encryption.
   * Benny: Some challenges of working on this program included setup and working on the delete password function. An achievement im proud of is being able to get the delete button to work. 
-  * Cole H:
+  * Cole H: Reflecting on our work this semester it really opened my eyes to the security side of development which I really didn't pay much mind to  before. Learning about all these threats and methods being used to mitigate them in the real world helped us model what steps we needed to follow to cover the security bases of our app. We were having some bugs with our app with some features not working properly but we were able to fix those problems in the end. I am a little disappointed we did not delve deeper into implementing all the security features we wanted to, and that myself never attempted to learn how to use different testing software like puppeteer etc.
   * Cole A: It was a nice achievement to create a website that does work for the purpose of storing password and account information, when it comes to disappointments, I am a little disappointed we couldn't get all of the security features we wanted up and running.
 
 - [Repository](https://github.com/ICS427-Pass-Bots/password-manager)
