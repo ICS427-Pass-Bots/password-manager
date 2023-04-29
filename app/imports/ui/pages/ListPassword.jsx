@@ -27,9 +27,9 @@ const ListPassword = () => {
             <h2> Passwords</h2>
           </Col>
           <Col>
-            <CardGroup style={{ padding: 20 }}>
+            <Row>
               {passwords.map((password) => <PasswordCard key={password._id} password={password} />)}
-            </CardGroup>
+            </Row>
           </Col>
         </Col>
       </Row>
